@@ -1,0 +1,26 @@
+[
+  {
+    "name": "University of Technology",
+    "description": "A leading institution in technological education and research",
+    "website": "https://utech.edu"
+  },
+  {
+    "name": "Global Business School",
+    "description": "Premier business education institution",
+    "website": "https://globalbiz.edu"
+  },
+  {
+    "name": "Institute of Arts and Sciences",
+    "description": "Comprehensive liberal arts and sciences education",
+    "website": "https://iarts.edu"
+  },
+  {
+    "name": "Medical College of Excellence",
+    "description": "Advanced medical education and research center"
+  },
+  {
+    "name": "Engineering Institute",
+    "description": "Specialized engineering and technical education",
+    "website": "https://enginst.edu"
+  }
+]
